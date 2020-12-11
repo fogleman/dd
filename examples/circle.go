@@ -1,3 +1,5 @@
+// +build ignore
+
 package main
 
 import "github.com/fogleman/gg"
